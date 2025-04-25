@@ -45,18 +45,18 @@ Metadata and Timeline Forensics, Steganography Analysis Steps
 ## OUTPUT:
 
 ### Extraction of Metadata using exiftool
-![image](https://github.com/user-attachments/assets/e1e28e0a-e575-4021-b467-c6adb90c195e)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/e1e28e0a-e575-4021-b467-c6adb90c195e"/>
 
 
 ### Data Embedding in Image
-![image](https://github.com/user-attachments/assets/3d1c5e74-ee2a-4c71-b340-584cdb3a777e)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3d1c5e74-ee2a-4c71-b340-584cdb3a777e"/>
 
 
 ### Extraction of hidden data
-![image](https://github.com/user-attachments/assets/2aa71bb6-a239-435c-af34-5ad217673f1e)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2aa71bb6-a239-435c-af34-5ad217673f1e"/>
 
 ### Using binwalk – for file analysis
-![image](https://github.com/user-attachments/assets/eb0c5c2b-7aa6-4b0f-8e7d-9cd7bc01b52c)
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/eb0c5c2b-7aa6-4b0f-8e7d-9cd7bc01b52c"/>
 
 
 ## RESULT:
